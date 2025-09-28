@@ -25,5 +25,5 @@ Para visualizar o relatório, basta baixar e abrir o arquivo `Relatorio.pdf`.
 
 ## Autor
 - Nome: [Bruno De Matos]
-- Matrícula: [Sua Matrícula]
-- Curso: [Arquitetura e Organização de Computadores]
+- Matrícula: [424298816515]
+- Curso: [Ciência da computação]
