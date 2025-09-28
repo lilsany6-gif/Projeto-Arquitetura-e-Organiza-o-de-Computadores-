@@ -1,4 +1,4 @@
-Este projeto esta sendo realizado pelos estudantetes Bruno de Matos, Hugo, Ozanio Souza Reis, Gabriel de Mello Pedroza e Pedro Lopes Braga
+Este projeto esta sendo realizado pelos estudantes Bruno de Matos, Hugo, Ozanio Souza Reis, Gabriel de Mello Pedroza e Pedro Lopes Braga
 Pela facudade anhanguera 
 
 # Projeto de Arquitetura e Organização de Computadores
